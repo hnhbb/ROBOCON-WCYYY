@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/wangcy/Desktop/8.10/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\queue_project.dir\\queue\\src\\main.c.obj -c C:\\Users\\wangcy\\Desktop\\8.10\\queue\\src\\main.c",
+  "file": "C:/Users/wangcy/Desktop/8.10/queue/src/main.c",
+  "output": "CMakeFiles/queue_project.dir/queue/src/main.c.obj"
+},
+{
+  "directory": "C:/Users/wangcy/Desktop/8.10/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\queue_project.dir\\queue\\src\\queue.c.obj -c C:\\Users\\wangcy\\Desktop\\8.10\\queue\\src\\queue.c",
+  "file": "C:/Users/wangcy/Desktop/8.10/queue/src/queue.c",
+  "output": "CMakeFiles/queue_project.dir/queue/src/queue.c.obj"
+}
+]
